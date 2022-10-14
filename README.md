@@ -1,2 +1,4 @@
 # Netflix
 In this Repository I am building a Netflix clone! This React project has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, I will use Firebase auth to store the user in the Firebase auth database. I built this app using React and uses Styled Components for all the styling I implement. One will need knowledge of React (useEffect, useState, useContext) and will need JavaScript knowledge for using higher order functions such as map, filter, reduce, and find. I will use Fuse.js for live search, and I will test all our components using React Testing Library. And of course I will use React router for navigation! As and when the parts of the actual website is done it will be uploaded here!
+
+![netflix-preview](https://user-images.githubusercontent.com/53574326/195874499-d32d5dd9-03fb-4ba7-8ac1-04210a2d363f.jpg)
